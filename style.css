@@ -255,6 +255,34 @@ nav ul li a:hover::after{
 }
 .btn:hover{
     background: #ff004f;
+}/*--------------------------------------------------------------Video------------------------------------------------------------------*/
+#video{
+    padding: 50px 0;
+    color: #ababab;
+}
+.row2{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.about-col-2-a video{
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 15px;
+}
+.about-col-1-a{
+    margin-top: 0;
+    flex-basis: 45%;
+}
+.about-col-1-a.sub-title{
+    margin-top: 0;
+    flex-basis: 45%;
+    color: #ababab;
+}
+.about-col-1-a p{
+    margin-top: 40px;
+    flex-basis: 50%;
 }
 /*-------------------------------------------------------------Contact------------------------------------------------------------------*/
 .contact-left{
