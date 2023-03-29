@@ -290,6 +290,11 @@ nav ul li a:hover::after{
     display: inline-block;
     background: #ff004f;
 }
+.btn.btn3{
+    margin-top: 2px;
+    display: inline-block;
+    background: #ff004f;
+}
 .contact-right form{
     width: 100%;
 }
